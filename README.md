@@ -5,7 +5,7 @@ Table implementation for Qt 5 with QtQuick Components 2
 QMLTable adds an easy to use and performant table view implementation to QtQuick. Is does not provide as many features as QtQUick Components 1's TableView, but can be used to create simple table views.
 
 ## Documentation
-QMLTables uses DoxyQML fopr documentation. See https://github.com/agateau/doxyqml
+QMLTables uses DoxyQML for documentation. See https://github.com/agateau/doxyqml
 
 ## Usage
 To use QMLTable, simply add the QML files to your project. A basic table definition could look like this:
